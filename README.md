@@ -48,7 +48,7 @@ You can also access the platform from your Page login (Publishing Tools → Crea
 
 Now that we’ve highlighted the basics of the platform, let’s break down a few actionable ways it can encourage more growth and engagement for your Facebook Page(s).
 
-1. Bulk Schedule Your Facebook Content (and Time it to Perfection)
+**_1. Bulk Schedule Your Facebook Content (and Time it to Perfection)_**
 
 No matter how much content you’re publishing, scheduling posts is a must-do.
 
@@ -56,7 +56,7 @@ Because scheduling not only allows you to better understand your content calenda
 
 Whether you want to stick to the best times to publish on social media or base scheduling on your own follower engagement data, the platform empowers you to find a frequency that works for your audience.
 
-2. Dig Deeper Into Your Audience Demographics
+**_2. Dig Deeper Into Your Audience Demographics_**
 
 The more you can learn about your target audience, the better.
 
@@ -67,7 +67,7 @@ For example, you might realize that you’re attracting an older audience as a m
 Looking at these numbers can help you refine your messaging and Facebook strategy. Creator Studio’s dashboards can be an eye-opener to who’s actually engaging with your content.
 
 
-3. Assess How Your Organic Content Performs Versus Paid Posts
+**_3. Assess How Your Organic Content Performs Versus Paid Posts_**
 
 Given how fickle Facebook’s algorithm is, many brands supplement their organic Facebook presence with ads. 
 
@@ -75,11 +75,11 @@ Figuring out how much time, money, and resources to invest in ads versus organic
 
 How so? Consider how the platform highlights plainly how organic posts perform versus paid ones. This comparison can highlight opportunities to ramp up campaigns or scale them back accordingly. The end result is more bang for your buck when it comes to ad spending.
 
-4. Identify Low-Hanging Opportunities to Run Ads
+**_4. Identify Low-Hanging Opportunities to Run Ads_**
 
 Facebook Creator Studio makes a point to highlight your top-performing content and which posts are driving significant engagement. These types of posts might be prime candidates for ads. Additional features within Creator Studio (such as Instant Articles) allow you to quickly convert your organic posts into paid ads in a matter of minutes. 
 
-5. Optimize Your Video Content Based on Engagement Data
+**_5. Optimize Your Video Content Based on Engagement Data_**
 
 Investing in video is crucial for brands today, but these are so many variables that impact audience engagement.
 
@@ -89,7 +89,7 @@ Thankfully, video insights can help you better understand which types of videos 
 
 In short, you’re more likely to produce the kinds of videos your audience wants to see.
 
-6. Test-Drive Videos Prior to Publishing to Boost Engagement
+**_6. Test-Drive Videos Prior to Publishing to Boost Engagement_**
 
 Piggybacking on the point above, even the smallest details of your video content can impact engagement. 
 
@@ -97,7 +97,7 @@ Facebook Creator Studio has a built-in testing feature that allows you to genera
 
 Want to experiment with different video titles and descriptions? Trying to determine which types of thumbnails perform the best? Short-term tests can clue you in.
 
-7. Monitor Your Facebook and Instagram Presence in One Place
+**_7. Monitor Your Facebook and Instagram Presence in One Place_**
 
 Yet another example of how [Creator Studio](https://ccreator-studio.github.io/) saves time, consider that many features of the platform such as your content library and inbox management are present on Instagram as well.
 
