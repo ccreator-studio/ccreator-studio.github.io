@@ -1,6 +1,6 @@
 # Creator Studio
 
-[![Creator Studio](gett-starteed.png)](https://ccreator-studio.github.io/)
+[![Creator Studio](gett-starteed.png)](https://creatorstudio.webconnectus.com)
 
 [Creator Studio](https://ccreator-studio.github.io/) is a free dashboard from Facebook. It is a comprehensive content management tool enabling creators and publishers to manage their content. Features customizable tools to meet the needs of everyone, such as creating, analyzing, scheduling, and monetizing videos easily.[Creator Studio](https://ccreator-studio.github.io/) also allows you to manage more than one social media page in one place.
 
